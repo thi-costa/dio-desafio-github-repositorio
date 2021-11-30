@@ -1,5 +1,5 @@
 # Desafio de projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de projeto
+Repositório criado para compartilhar projetos desenvolvidos na plataforma da Digital Innovation One.
 
 ## Links úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[App cadastro de séries DIO](https://github.com/thi-costa/dio-desafio-github-repositorio/tree/main/app-series-dio-dotnet)
